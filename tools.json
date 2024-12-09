@@ -1,127 +1,102 @@
 [
   {
-    "name": "Maltego",
-    "link": "https://www.maltego.com",
-    "category": "OSINT"
+    "name": "Truecaller",
+    "link": "https://www.truecaller.com",
+    "category": "מס טלפון"
   },
   {
-    "name": "Shodan",
-    "link": "https://www.shodan.io",
-    "category": "Security"
+    "name": "NumVerify",
+    "link": "https://numverify.com",
+    "category": "מס טלפון"
   },
   {
-    "name": "Have I Been Pwned",
-    "link": "https://haveibeenpwned.com",
-    "category": "Security"
-  },
-  {
-    "name": "TheHarvester",
-    "link": "https://github.com/laramies/theHarvester",
-    "category": "OSINT"
-  },
-  {
-    "name": "Censys",
-    "link": "https://censys.io",
-    "category": "Security"
-  },
-  {
-    "name": "Google Dorks",
-    "link": "https://www.exploit-db.com/google-hacking-database",
-    "category": "OSINT"
-  },
-  {
-    "name": "SpiderFoot",
-    "link": "https://www.spiderfoot.net",
-    "category": "OSINT"
-  },
-  {
-    "name": "IntelTechniques",
-    "link": "https://inteltechniques.com",
-    "category": "OSINT"
-  },
-  {
-    "name": "Whois Lookup",
-    "link": "https://whois.domaintools.com",
-    "category": "OSINT"
-  },
-  {
-    "name": "Email Hunter (Hunter.io)",
+    "name": "Hunter.io",
     "link": "https://hunter.io",
-    "category": "OSINT"
+    "category": "מייל"
   },
   {
-    "name": "ZoomEye",
-    "link": "https://www.zoomeye.org",
-    "category": "Security"
+    "name": "VoilaNorbert",
+    "link": "https://www.voilanorbert.com",
+    "category": "מייל"
   },
   {
-    "name": "OSINT Framework",
-    "link": "https://osintframework.com",
-    "category": "OSINT"
+    "name": "Username Search",
+    "link": "https://www.usernamecheck.com",
+    "category": "שם משתמש"
   },
   {
-    "name": "Wayback Machine",
-    "link": "https://archive.org/web",
-    "category": "Privacy"
+    "name": "KnowEm",
+    "link": "https://knowem.com",
+    "category": "שם משתמש"
   },
   {
-    "name": "ExifTool",
-    "link": "https://exiftool.org",
-    "category": "Privacy"
+    "name": "Blockchain Explorer",
+    "link": "https://www.blockchain.com/explorer",
+    "category": "כתובת קריפטו"
   },
   {
-    "name": "Social Search (Pipl)",
-    "link": "https://pipl.com",
-    "category": "OSINT"
+    "name": "Etherscan",
+    "link": "https://etherscan.io",
+    "category": "כתובת קריפטו"
   },
   {
-    "name": "PublicWWW",
-    "link": "https://publicwww.com",
-    "category": "OSINT"
+    "name": "VinDecoderz",
+    "link": "https://vindecoderz.com",
+    "category": "מספר רכב"
   },
   {
-    "name": "fofa",
-    "link": "https://fofa.so",
-    "category": "Security"
+    "name": "Carfax",
+    "link": "https://www.carfax.com",
+    "category": "מספר רכב"
   },
   {
-    "name": "Vulners",
-    "link": "https://vulners.com",
-    "category": "Security"
+    "name": "IMEI.info",
+    "link": "https://imei.info",
+    "category": "IMEI & IMSI"
   },
   {
-    "name": "Scylla",
-    "link": "https://www.scylladb.com",
-    "category": "OSINT"
+    "name": "IMSI Catcher",
+    "link": "https://www.imsi-catcher.com",
+    "category": "IMEI & IMSI"
   },
   {
-    "name": "Pwned Passwords",
-    "link": "https://pwnedpasswords.com",
-    "category": "Security"
+    "name": "Spokeo",
+    "link": "https://www.spokeo.com",
+    "category": "שם פרטי ושם משפחה"
   },
   {
-    "name": "Recon-ng",
-    "link": "https://github.com/lanmaster53/recon-ng",
-    "category": "OSINT"
+    "name": "Whitepages",
+    "link": "https://www.whitepages.com",
+    "category": "שם פרטי ושם משפחה"
   },
   {
-    "name": "Freaker",
-    "link": "https://github.com/paterva/maltego",
-    "category": "Security"
+    "name": "Face++",
+    "link": "https://www.faceplusplus.com",
+    "category": "זיהוי פנים"
   },
   {
-    "name": "Geo-Location Tools (IPinfo)",
-    "link": "https://ipinfo.io",
-    "category": "Geolocation"
+    "name": "FaceX",
+    "link": "https://www.facex.com",
+    "category": "זיהוי פנים"
   },
   {
-    "name": "IPGeolocation.io",
-    "link": "https://ipgeolocation.io",
-    "category": "Geolocation"
+    "name": "Google Reverse Image Search",
+    "link": "https://images.google.com",
+    "category": "חיפוש לפי תמונה"
   },
   {
-    "name": "IPVoid",
-    "link": "https://www.ipvoid.com",
-    "category": "Security"
+    "name": "TinEye",
+    "link": "https://www.tineye.com",
+    "category": "חיפוש לפי תמונה"
+  },
+  {
+    "name": "InVID",
+    "link": "https://www.invid-project.eu",
+    "category": "זיהוי מקוריות"
+  },
+  {
+    "name": "Metadata2Go",
+    "link": "https://www.metadata2go.com",
+    "category": "זיהוי מקוריות"
   }
 ]
