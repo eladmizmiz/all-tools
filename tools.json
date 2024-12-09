@@ -1,17 +1,127 @@
 [
   {
-    "name": "Tool 1",
-    "link": "https://tool1.com",
+    "name": "Maltego",
+    "link": "https://www.maltego.com",
     "category": "OSINT"
   },
   {
-    "name": "Tool 2",
-    "link": "https://tool2.com",
+    "name": "Shodan",
+    "link": "https://www.shodan.io",
     "category": "Security"
   },
   {
-    "name": "Tool 3",
-    "link": "https://tool3.com",
+    "name": "Have I Been Pwned",
+    "link": "https://haveibeenpwned.com",
+    "category": "Security"
+  },
+  {
+    "name": "TheHarvester",
+    "link": "https://github.com/laramies/theHarvester",
+    "category": "OSINT"
+  },
+  {
+    "name": "Censys",
+    "link": "https://censys.io",
+    "category": "Security"
+  },
+  {
+    "name": "Google Dorks",
+    "link": "https://www.exploit-db.com/google-hacking-database",
+    "category": "OSINT"
+  },
+  {
+    "name": "SpiderFoot",
+    "link": "https://www.spiderfoot.net",
+    "category": "OSINT"
+  },
+  {
+    "name": "IntelTechniques",
+    "link": "https://inteltechniques.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "Whois Lookup",
+    "link": "https://whois.domaintools.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "Email Hunter (Hunter.io)",
+    "link": "https://hunter.io",
+    "category": "OSINT"
+  },
+  {
+    "name": "ZoomEye",
+    "link": "https://www.zoomeye.org",
+    "category": "Security"
+  },
+  {
+    "name": "OSINT Framework",
+    "link": "https://osintframework.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "Wayback Machine",
+    "link": "https://archive.org/web",
     "category": "Privacy"
+  },
+  {
+    "name": "ExifTool",
+    "link": "https://exiftool.org",
+    "category": "Privacy"
+  },
+  {
+    "name": "Social Search (Pipl)",
+    "link": "https://pipl.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "PublicWWW",
+    "link": "https://publicwww.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "fofa",
+    "link": "https://fofa.so",
+    "category": "Security"
+  },
+  {
+    "name": "Vulners",
+    "link": "https://vulners.com",
+    "category": "Security"
+  },
+  {
+    "name": "Scylla",
+    "link": "https://www.scylladb.com",
+    "category": "OSINT"
+  },
+  {
+    "name": "Pwned Passwords",
+    "link": "https://pwnedpasswords.com",
+    "category": "Security"
+  },
+  {
+    "name": "Recon-ng",
+    "link": "https://github.com/lanmaster53/recon-ng",
+    "category": "OSINT"
+  },
+  {
+    "name": "Freaker",
+    "link": "https://github.com/paterva/maltego",
+    "category": "Security"
+  },
+  {
+    "name": "Geo-Location Tools (IPinfo)",
+    "link": "https://ipinfo.io",
+    "category": "Geolocation"
+  },
+  {
+    "name": "IPGeolocation.io",
+    "link": "https://ipgeolocation.io",
+    "category": "Geolocation"
+  },
+  {
+    "name": "IPVoid",
+    "link": "https://www.ipvoid.com",
+    "category": "Security"
   }
 ]
