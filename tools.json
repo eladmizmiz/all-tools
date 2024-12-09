@@ -1,23 +1,17 @@
 [
   {
-    "name": "Epieos Email OSINT",
-    "link": "https://epieos.com/"
+    "name": "Tool 1",
+    "link": "https://tool1.com",
+    "category": "OSINT"
   },
   {
-    "name": "OSINT Framework", 
-    "link": "https://osintframework.com/"
+    "name": "Tool 2",
+    "link": "https://tool2.com",
+    "category": "Security"
   },
   {
-    "name": "Whois", 
-    "link": "https://who.is/"
-  },
-  {
-    "name": "Shodan", 
-    "link": "https://www.shodan.io/"
-  },
-  {
-    "name": "Hunter.io", 
-    "link": "https://hunter.io/"
+    "name": "Tool 3",
+    "link": "https://tool3.com",
+    "category": "Privacy"
   }
-
 ]
