@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Epieos Email OSINT",
+    "link": "https://epieos.com/"
+  },
+  {
+    "name": "OSINT Framework", 
+    "link": "https://osintframework.com/"
+  },
+  {
+    "name": "Whois", 
+    "link": "https://who.is/"
+  },
+  {
+    "name": "Shodan", 
+    "link": "https://www.shodan.io/"
+  },
+  {
+    "name": "Hunter.io", 
+    "link": "https://hunter.io/"
+  }
+]
