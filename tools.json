@@ -3,7 +3,7 @@
     "type": "folder",
     "children": [
         {
-            "name": "Username",
+            "name": "חיפוש על פי שם",
             "type": "folder",
             "children": [
                 {
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "Email Address",
+            "name": "חיפוש על פי כתובת מייל",
             "type": "folder",
             "children": [
                 {
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "name": "Domain Name",
+            "name": "חיפוש על פי Domain",
             "type": "folder",
             "children": [
                 {
