@@ -1230,7 +1230,7 @@
         ]
     },
     {
-        "name": "IP & MAC Address",
+        "name": "חיפוש על פי IP/MAC",
         "type": "folder",
         "children": [
             {
@@ -1674,11 +1674,11 @@
         ]
     },
     {
-        "name": "Images / Videos / Docs",
+        "name": "חיפוש על פי תמונה או סרטון",
         "type": "folder",
         "children": [
             {
-                "name": "Images",
+                "name": "תמונות",
                 "type": "folder",
                 "children": [
                     {
@@ -1838,7 +1838,7 @@
                         ]
                     },
                     {
-                        "name": "Instagram",
+                        "name": "אינסטגרם",
                         "type": "folder",
                         "children": [
                             {
@@ -2026,7 +2026,7 @@
                 ]
             },
             {
-                "name": "Videos",
+                "name": "סרטונים",
                 "type": "folder",
                 "children": [
                     {
@@ -2188,7 +2188,7 @@
                 ]
             },
             {
-                "name": "Documents",
+                "name": "קבצים",
                 "type": "folder",
                 "children": [
                     {
@@ -2334,11 +2334,11 @@
         ]
     },
     {
-        "name": "Social Networks",
+        "name": "רשתות חברתיות",
         "type": "folder",
         "children": [
             {
-                "name": "Facebook",
+                "name": "פייסבוק",
                 "type": "folder",
                 "children": [
                     {
@@ -2428,7 +2428,7 @@
                 ]
             },
             {
-                "name": "Instagram",
+                "name": "אינסטגרם",
                 "type": "folder",
                 "children": [
                     {
@@ -2440,7 +2440,7 @@
                 ]
             },
             {
-                "name": "Twitter",
+                "name": "טוויטר",
                 "type": "folder",
                 "children": [
                     {
@@ -3401,7 +3401,7 @@
         ]
     },
     {
-        "name": "Telephone Numbers",
+        "name": "חיפוש על פי מספר טלפון",
         "type": "folder",
         "children": [
             {
@@ -5725,18 +5725,6 @@
                     }
                 ]
             },
-            {
-                "name": "Analysis",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "WhatTheFont",
-                        "type": "url",
-                        "url": "https://www.myfonts.com/WhatTheFont/",
-                        "hover": "A tool for accessing or analyzing WhatTheFont."
-                    }
-                ]
-            }
         ]
     },
     {
