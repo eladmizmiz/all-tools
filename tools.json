@@ -1,10 +1,10 @@
 [
     {
-        "name": "Username",
+        "name": "חיפוש על פי שם",
         "type": "folder",
         "children": [
             {
-                "name": "Username Search Engines",
+                "name": "מנועי לחיפוש שם משתמש",
                 "type": "folder",
                 "children": [
                     {
@@ -108,11 +108,11 @@
         ]
     },
     {
-        "name": "Email Address",
+        "name": "חיפוש על פי כתובת מייל",
         "type": "folder",
         "children": [
             {
-                "name": "Email Search",
+                "name": "חיפוש כתובת מייל",
                 "type": "folder",
                 "children": [
                     {
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "name": "Common Email Formats",
+                "name": "כתובות מייל נפוצות",
                 "type": "folder",
                 "children": [
                     {
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "name": "Domain Name",
+        "name": "חיפוש על פי דומיין",
         "type": "folder",
         "children": [
             {
