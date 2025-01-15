@@ -76,32 +76,20 @@
                 ]
             },
             {
-                "name": "אתרים ספציפיים",
+                "name": "חיפוש שמות באתרים ספציפיים",
                 "type": "folder",
                 "children": [
                     {
-                        "name": "Amazon Usernames (M)",
+                        "name": "חיפוש שם משתמש בAmazon",
                         "type": "url",
                         "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לחיפוש משתמש בתוך Amazon"
                     },
                     {
-                        "name": "Tinder Usernames (M)",
+                        "name": "שם משתמש בTinder",
                         "type": "url",
                         "url": "https://www.gotinder.com/@%3Cusername%3E",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Keybase",
-                        "type": "url",
-                        "url": "https://keybase.io/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "MIT PGP Key Server",
-                        "type": "url",
-                        "url": "http://pgp.mit.edu/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לחיפוש משתמש בתוך Amazon"
                     }
                 ]
             }
@@ -116,46 +104,22 @@
                 "type": "folder",
                 "children": [
                     {
-                        "name": "ThatsThem",
-                        "type": "url",
-                        "url": "https://thatsthem.com/reverse-email-lookup",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
                         "name": "Hunter",
                         "type": "url",
                         "url": "https://hunter.io/",
-                        "hover": "כלי לחקר דומיינים ומידע DNS."
-                    },
-                    {
-                        "name": "Email to Address (R)",
-                        "type": "url",
-                        "url": "http://www.melissadata.com/lookups/emails.asp",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לחיפוש כתובת מייל בחברה"
                     },
                     {
                         "name": "VoilaNorbert",
                         "type": "url",
                         "url": "https://www.voilanorbert.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "OSINT Industries",
-                        "type": "url",
-                        "url": "https://osint.industries/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "חיפוש כתובת מייל בפלטפורמה ספציפית"
                     },
                     {
                         "name": "Skymem",
                         "type": "url",
                         "url": "http://www.skymem.info/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "MailsHunt",
-                        "type": "url",
-                        "url": "https://mailshunt.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "חיפוש מיילים לפי חברות"
                     }
                 ]
             },
@@ -167,25 +131,19 @@
                         "name": "Email Format",
                         "type": "url",
                         "url": "https://www.email-format.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Toofr",
-                        "type": "url",
-                        "url": "https://www.toofr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "רשומות דומיינים נפוצים"
                     },
                     {
                         "name": "Email Permutator",
                         "type": "url",
                         "url": "http://metricsparrow.com/toolkit/email-permutator/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "מציאת מיילים על ידי מילות מפתח"
                     },
                     {
                         "name": "OneLook Reverse Dictionary and Thesaurus",
                         "type": "url",
                         "url": "http://www.onelook.com/reverse-dictionary.shtml",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "חיפוש מיילים על ידי מילות מפתח"
                     }
                 ]
             },
@@ -197,31 +155,19 @@
                         "name": "Reacher Demo",
                         "type": "url",
                         "url": "https://reacher.email",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לאימות מיילים בקוד פתוח"
                     },
                     {
                         "name": "MailScrap",
                         "type": "url",
                         "url": "https://mailscrap.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Read Notify",
-                        "type": "url",
-                        "url": "http://www.readnotify.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Email Reputation",
-                        "type": "url",
-                        "url": "https://emailrep.io/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לאימות מיילים"
                     },
                     {
                         "name": "MailboxValidator",
                         "type": "url",
                         "url": "https://www.mailboxvalidator.com/demo",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לאימות ותחקור מייל ספציפי"
                     }
                 ]
             },
@@ -233,31 +179,13 @@
                         "name": "Have I been pwned?",
                         "type": "url",
                         "url": "https://haveibeenpwned.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Hudson Rock",
-                        "type": "url",
-                        "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "DeHashed (R)",
-                        "type": "url",
-                        "url": "https://dehashed.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Vigilante.pw",
-                        "type": "url",
-                        "url": "https://www.vigilante.pw/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "פשוטו כמשמעו - כלי שנועד לבדוק אם חשבון מסויים נפרץ"
                     },
                     {
                         "name": "Ashley Madison Emails",
                         "type": "url",
                         "url": "https://ashley.cynic.al/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לבדיקה האם חשבון גוגל מסויים נפרץ"
                     }
                 ]
             },
@@ -269,7 +197,7 @@
                         "name": "MxToolbox",
                         "type": "url",
                         "url": "http://mxtoolbox.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "כלי לבדיקה האם דומיין מסויים נמצא ברשימה שחורה"
                     }
                 ]
             }
@@ -3806,60 +3734,6 @@
                 ]
             },
             {
-                "name": "Death Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Death Check",
-                        "type": "url",
-                        "url": "http://www.melissadata.com/lookups/deathcheck.asp",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Find A Grave",
-                        "type": "url",
-                        "url": "http://www.findagrave.com/index.html",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "GraveInfo",
-                        "type": "url",
-                        "url": "http://www.graveinfo.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "US County Data",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "NACo County Explorer",
-                        "type": "url",
-                        "url": "http://explorer.naco.org/index.html",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "US Voter Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Voter Records",
-                        "type": "url",
-                        "url": "https://voterrecords.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Voter Registration Data",
-                        "type": "url",
-                        "url": "http://www.blackbookonline.info/USA-Voter-Records.aspx",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
                 "name": "Patent Records",
                 "type": "folder",
                 "children": [
@@ -3877,86 +3751,6 @@
                     }
                 ]
             },
-            {
-                "name": "US Political Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "FollowTheMoney.org",
-                        "type": "url",
-                        "url": "http://www.followthemoney.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "OpenSecrets.org",
-                        "type": "url",
-                        "url": "http://www.opensecrets.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Political MoneyLine",
-                        "type": "url",
-                        "url": "http://www.politicalmoneyline.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "MelissaData - Campaign Contributions",
-                        "type": "url",
-                        "url": "http://www.melissadata.com/lookups/fec.asp",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Influence Explorer",
-                        "type": "url",
-                        "url": "http://data.influenceexplorer.com/#",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "US Federal Election Commission",
-                        "type": "url",
-                        "url": "http://www.fec.gov/finance/disclosure/norindsea.shtml",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Every Politician",
-                        "type": "url",
-                        "url": "http://everypolitician.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Public Records?",
-                "type": "url",
-                "url": "http://publicrecords.searchsystems.net/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "The World Bank Open Data Catalog",
-                "type": "url",
-                "url": "http://datacatalog.worldbank.org/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "BRB Public Records",
-                "type": "url",
-                "url": "http://www.brbpub.com/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "GOVDATA - Das Datenportal für Deutschland (German)",
-                "type": "url",
-                "url": "https://www.govdata.de/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "Open-Data-Portal München (German)",
-                "type": "url",
-                "url": "https://www.opengov-muenchen.de/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            }
-        ]
-    },
     {
         "name": "Business Records",
         "type": "folder",
@@ -4052,198 +3846,6 @@
                 ]
             },
             {
-                "name": "Company Profiles",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "OpenCorporates",
-                        "type": "url",
-                        "url": "https://opencorporates.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Corporation Wiki",
-                        "type": "url",
-                        "url": "https://www.corporationwiki.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Data.com Connect",
-                        "type": "url",
-                        "url": "https://connect.data.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "ZoomInfo.com",
-                        "type": "url",
-                        "url": "http://www.zoominfo.com/company-directory/us",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Kompass International",
-                        "type": "url",
-                        "url": "http://www.kompass.com/selectcountry/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Infobel",
-                        "type": "url",
-                        "url": "http://www.infobel.com/en/world/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "AIHIT",
-                        "type": "url",
-                        "url": "https://www.aihitdata.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Plonked",
-                        "type": "url",
-                        "url": "https://www.plonked.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Buzzfile",
-                        "type": "url",
-                        "url": "http://www.buzzfile.com/Home/Basic",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "LittleSis",
-                        "type": "url",
-                        "url": "http://littlesis.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Companies House",
-                        "type": "url",
-                        "url": "https://beta.companieshouse.gov.uk/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Hoovers",
-                        "type": "url",
-                        "url": "http://www.hoovers.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Corporate Information",
-                        "type": "url",
-                        "url": "http://corporateinformation.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Company Data Rex (EU)",
-                        "type": "url",
-                        "url": "http://cdrex.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Europages",
-                        "type": "url",
-                        "url": "http://www.europages.co.uk/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Glassdoor Company Reviews",
-                        "type": "url",
-                        "url": "https://www.glassdoor.com/Reviews/index.htm",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Owler (R)",
-                        "type": "url",
-                        "url": "https://www.owler.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Vault",
-                        "type": "url",
-                        "url": "http://www.vault.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Companies In The UK",
-                        "type": "url",
-                        "url": "https://www.companiesintheuk.co.uk/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "UK Companies list",
-                        "type": "url",
-                        "url": "https://www.companieslist.co.uk/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "UK Data",
-                        "type": "url",
-                        "url": "http://ukdata.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Orbis Directory",
-                        "type": "url",
-                        "url": "https://orbisdirectory.bvdinfo.com/version-2016121/OrbisDirectory/Companies",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Manta Small Business Directory",
-                        "type": "url",
-                        "url": "https://www.manta.com/business-directory",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Crunchbase",
-                        "type": "url",
-                        "url": "https://www.crunchbase.com/#/home/index",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Employee Profiles & Resumes",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "RecruitEm",
-                        "type": "url",
-                        "url": "http://recruitin.net/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "LinkedIn",
-                        "type": "url",
-                        "url": "https://www.linkedin.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Jobster",
-                        "type": "url",
-                        "url": "http://www.jobster.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "XING (R)",
-                        "type": "url",
-                        "url": "https://www.xing.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Indeed",
-                        "type": "url",
-                        "url": "http://www.indeed.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "CVGadget",
-                        "type": "url",
-                        "url": "http://www.cvgadget.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
                 "name": "Additional Resources",
                 "type": "folder",
                 "children": [
@@ -4260,180 +3862,6 @@
                         "hover": "כלי לחקר נתונים ומידע באינטרנט."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Transportation",
-        "type": "folder",
-        "children": [
-            {
-                "name": "Vehicle Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Vehicle Purchase Records",
-                        "type": "url",
-                        "url": "http://vin.place/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "VIN Decoderz",
-                        "type": "url",
-                        "url": "http://www.vindecoderz.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "That's Them VIN Search",
-                        "type": "url",
-                        "url": "https://thatsthem.com/vin-search",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Reverse Genie License Plates",
-                        "type": "url",
-                        "url": "http://www.reversegenie.com/plate.php",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "VinCheck",
-                        "type": "url",
-                        "url": "https://www.nicb.org/theft_and_fraud_awareness/vincheck",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "TRAVIC - Public Transportation Tracking",
-                        "type": "url",
-                        "url": "http://tracker.geops.ch/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Vehicle Specifications Lookup",
-                        "type": "url",
-                        "url": "https://berla.co/products/ive/vehicle-lookup/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "License Plate Search",
-                        "type": "url",
-                        "url": "https://www.vehiclehistory.com/licence-plate-search/licence-plate.php",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Air Traffic Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "FlightAware - Live Flight Tracker",
-                        "type": "url",
-                        "url": "http://flightaware.com/live/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Flightradar24.com",
-                        "type": "url",
-                        "url": "https://www.flightradar24.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "World Aeronautical Database",
-                        "type": "url",
-                        "url": "http://worldaerodata.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "ADS-B Exchange",
-                        "type": "url",
-                        "url": "https://www.adsbexchange.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "ADS-B.NL",
-                        "type": "url",
-                        "url": "https://www.ads-b.nl/index.php?pageno=9999",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Marine Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Marine Traffic",
-                        "type": "url",
-                        "url": "http://www.marinetraffic.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Vessel Tracker",
-                        "type": "url",
-                        "url": "http://www.vesseltracker.com/app",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Ship AIS",
-                        "type": "url",
-                        "url": "http://www.shipais.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Shodan Ship Tracker",
-                        "type": "url",
-                        "url": "https://shiptracker.shodan.io/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "OpenSeaMap - The free nautical chart",
-                        "type": "url",
-                        "url": "http://www.openseamap.org",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "Vessel Finder",
-                        "type": "url",
-                        "url": "https://www.vesselfinder.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Railway Records",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Deutsche Bahn Open-Data-Portal (German)",
-                        "type": "url",
-                        "url": "http://data.deutschebahn.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    },
-                    {
-                        "name": "OpenRailwayMap",
-                        "type": "url",
-                        "url": "https://www.openrailwaymap.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                    }
-                ]
-            },
-            {
-                "name": "Transportation & Train Tracking",
-                "type": "url",
-                "url": "https://mobility.portal.geops.io/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "Satellite Tracking",
-                "type": "url",
-                "url": "http://www.n2yo.com/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-            },
-            {
-                "name": "Track-Trace",
-                "type": "url",
-                "url": "http://www.track-trace.com/",
-                "hover": "כלי לחקר נתונים ומידע באינטרנט."
             }
         ]
     },
