@@ -2232,7 +2232,7 @@
       ]
    },
    {
-      "name":"Social Networks",
+      "name":"רשתות חברתיות",
       "type":"folder",
       "children":[
          {
@@ -2869,7 +2869,7 @@
       ]
    },
    {
-      "name":"Instant Messaging",
+      "name":"אפליקציות מסרים",
       "type":"folder",
       "children":[
          {
@@ -2935,7 +2935,7 @@
       ]
    },
    {
-      "name":"People Search Engines",
+      "name":"מנועים לחיפוש אנשים",
       "type":"folder",
       "children":[
          {
@@ -3187,121 +3187,7 @@
       ]
    },
    {
-      "name":"Dating",
-      "type":"folder",
-      "children":[
-         {
-            "name":"Match.com",
-            "type":"url",
-            "url":"http://www.match.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"AYI.com",
-            "type":"url",
-            "url":"https://www.ayi.com/index.php",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Plenty Of Fish.com",
-            "type":"url",
-            "url":"http://www.pof.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"eHarmony",
-            "type":"url",
-            "url":"http://www.eharmony.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Farmers Only",
-            "type":"url",
-            "url":"http://www.farmersonly.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Zoosk",
-            "type":"url",
-            "url":"https://www.zoosk.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"OkCupid",
-            "type":"url",
-            "url":"https://www.okcupid.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Tinder (R)",
-            "type":"url",
-            "url":"https://tinder.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Wamba.com",
-            "type":"url",
-            "url":"http://wamba.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"AdultFriendFinder",
-            "type":"url",
-            "url":"http://adultfriendfinder.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Ashley Madison",
-            "type":"url",
-            "url":"https://www.ashleymadison.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"BeautifulPeople.com",
-            "type":"url",
-            "url":"https://www.beautifulpeople.com/en-US",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Badoo",
-            "type":"url",
-            "url":"https://badoo.us/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Spark.com",
-            "type":"url",
-            "url":"https://www.spark.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Meetup",
-            "type":"url",
-            "url":"http://www.meetup.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"BlackPeopleMeet",
-            "type":"url",
-            "url":"http://www.blackpeoplemeet.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Bumble",
-            "type":"url",
-            "url":"https://bumble.com/",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         },
-         {
-            "name":"Hinge",
-            "type":"url",
-            "url":"https://hinge.co/en-gb",
-            "hover":"כלי לחקר נתונים ומידע באינטרנט."
-         }
-      ]
-   },
-   {
-      "name":"Telephone Numbers",
+      "name":"מספרי טלפון",
       "type":"folder",
       "children":[
          {
@@ -3462,7 +3348,7 @@
       ]
    },
    {
-      "name":"Public Records",
+      "name":"רשומות ציבוריות",
       "type":"folder",
       "children":[
          {
