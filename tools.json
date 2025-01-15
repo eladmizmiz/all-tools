@@ -3185,36 +3185,6 @@
       "type":"folder",
       "children":[
          {
-            "name":"Voicemail",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Slydial",
-                  "type":"url",
-                  "url":"https://www.slydial.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"International",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Numbering Plans",
-                  "type":"url",
-                  "url":"https://www.numberingplans.com/?page=analysis&sub=phonenr",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Numberway",
-                  "type":"url",
-                  "url":"https://www.numberway.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
             "name":"True Caller",
             "type":"url",
             "url":"http://www.truecaller.com/",
