@@ -180,12 +180,6 @@
                   "type":"url",
                   "url":"https://haveibeenpwned.com/",
                   "hover":"פשוטו כמשמעו - כלי שנועד לבדוק אם חשבון מסויים נפרץ"
-               },
-               {
-                  "name":"Ashley Madison Emails",
-                  "type":"url",
-                  "url":"https://ashley.cynic.al/",
-                  "hover":"כלי לבדיקה האם חשבון גוגל מסויים נפרץ"
                }
             ]
          },
