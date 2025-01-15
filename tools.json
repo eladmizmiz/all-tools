@@ -1,17 +1,17 @@
 [
    {
-      "name":"שם משתמש",
+      "name":"בינה מלאכותית",
       "type":"folder",
       "children":[
          {
-            "name":"מנועי חיפוש לשמות משתמש",
+            "name":"צ'אטים פופולריים",
             "type":"folder",
             "children":[
                {
-                  "name":"WhatsMyName",
+                  "name":"ChatGpt",
                   "type":"url",
-                  "url":"https://whatsmyname.app/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                  "url":"https://chatgpt.com/",
+                  "hover":"צ'אט הבינה המלאכותית המוכר והאהוב"
                },
                {
                   "name":"Namechk",
