@@ -96,6 +96,102 @@
       ]
    },
    {
+      "name":"שם משתמש",
+      "type":"folder",
+      "children":[
+         {
+            "name":"מנועי חיפוש לשמות משתמש",
+            "type":"folder",
+            "children":[
+               {
+                  "name":"WhatsMyName",
+                  "type":"url",
+                  "url":"https://whatsmyname.app/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"Namechk",
+                  "type":"url",
+                  "url":"https://namechk.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"KnowEm",
+                  "type":"url",
+                  "url":"http://knowem.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"NameCheckr",
+                  "type":"url",
+                  "url":"https://www.namecheckr.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"UserSearch.org",
+                  "type":"url",
+                  "url":"https://usersearch.org/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"WhatsMyName",
+                  "type":"url",
+                  "url":"https://whatsmyname.app/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"Thats Them",
+                  "type":"url",
+                  "url":"https://thatsthem.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"Check Usernames",
+                  "type":"url",
+                  "url":"http://checkusernames.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"NameCheckup",
+                  "type":"url",
+                  "url":"https://namecheckup.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"Instant Username Search",
+                  "type":"url",
+                  "url":"https://instantusername.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
+                  "name":"Names Directory",
+                  "type":"url",
+                  "url":"https://namesdir.com/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               }
+            ]
+         },
+         {
+            "name":"חיפוש שמות באתרים ספציפיים",
+            "type":"folder",
+            "children":[
+               {
+                  "name":"חיפוש שם משתמש בAmazon",
+                  "type":"url",
+                  "url":"https://www.google.com/search?q=site:amazon.com+%3Cusername%3E",
+                  "hover":"כלי לחיפוש משתמש בתוך Amazon"
+               },
+               {
+                  "name":"שם משתמש בTinder",
+                  "type":"url",
+                  "url":"https://www.gotinder.com/@%3Cusername%3E",
+                  "hover":"כלי לחיפוש משתמש בתוך Amazon"
+               }
+            ]
+         }
+      ]
+   },
+   {
       "name":"כתובת דוא\"ל",
       "type":"folder",
       "children":[
