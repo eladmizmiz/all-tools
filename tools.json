@@ -31,6 +31,27 @@
       ]
    },
    {
+    "name": "Google Dorking",
+    "type": "folder",
+    "children": [
+      {
+        "type": "dork",
+        "command": "site:example.com intext:\"password\"",
+        "description": "חיפוש מילת מפתח 'password' באתר ספציפי"
+      },
+      {
+        "type": "dork",
+        "command": "filetype:pdf site:example.com",
+        "description": "חיפוש קבצי PDF באתר ספציפי"
+      },
+      {
+        "type": "dork",
+        "command": "intitle:\"index of\" site:example.com",
+        "description": "חיפוש ספריות פתוחות באתר"
+      }
+    ]
+   },
+   {
       "name":"שם משתמש",
       "type":"folder",
       "children":[
