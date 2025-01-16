@@ -18,7 +18,14 @@
                   "type":"url",
                   "url":"https://claude.ai/new",
                   "hover":"צ'אט הבינה המלאכותית מהחזקים והפופולריים"
+               },
+               {
+                  "name":"Gemini Ai",
+                  "type":"url",
+                  "url":"https://gemini.google.com/app",
+                  "hover":"צ'אט הבינה המלאכותית מבית גוגל"
                }
+               
             ]
          }
       ]
