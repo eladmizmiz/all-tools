@@ -48,8 +48,62 @@
         "type": "dork",
         "command": "intitle:\"index of\" site:example.com",
         "description": "חיפוש ספריות פתוחות באתר"
-      }
-    ]
+      },
+      {
+  "name": "Google Dorking",
+  "type": "folder",
+  "children": [
+    {
+      "type": "dork",
+      "command": "site:linkedin.com \"Company Name\" AND \"employee\"",
+      "description": "חיפוש עובדים של חברה ספציפית בלינקדאין"
+    },
+    {
+      "type": "dork",
+      "command": "filetype:xls OR filetype:xlsx site:example.com",
+      "description": "חיפוש קבצי אקסל באתר ספציפי"
+    },
+    {
+      "type": "dork",
+      "command": "intitle:\"webcam\" OR inurl:\"webcam\" -inurl:\"aspx\"",
+      "description": "חיפוש מצלמות אינטרנט נגישות"
+    },
+    {
+      "type": "dork",
+      "command": "cache:example.com",
+      "description": "צפייה בגרסה השמורה במטמון של האתר"
+    },
+    {
+      "type": "dork",
+      "command": "intext:\"@gmail.com\" AND intext:\"password\" filetype:log",
+      "description": "חיפוש קבצי לוג שמכילים כתובות Gmail וסיסמאות"
+    },
+    {
+      "type": "dork",
+      "command": "site:pastebin.com \"api_key\" OR \"apikey\"",
+      "description": "חיפוש מפתחות API שדלפו ל-Pastebin"
+    },
+    {
+      "type": "dork",
+      "command": "inurl:wp-content/uploads/private",
+      "description": "חיפוש תיקיות פרטיות בוורדפרס שנחשפו בטעות"
+    },
+    {
+      "type": "dork",
+      "command": "ext:php intitle:phpinfo \"published by the PHP Group\"",
+      "description": "חיפוש דפי phpinfo חשופים"
+    },
+    {
+      "type": "dork",
+      "command": "intext:\"Index of /\" +passwd",
+      "description": "חיפוש ספריות חשופות שמכילות קבצי סיסמאות"
+    },
+    {
+      "type": "dork",
+      "command": "site:docs.google.com/spreadsheets \"password\" OR \"credentials\"",
+      "description": "חיפוש גליונות Google שמכילים סיסמאות או פרטי התחברות"
+    }
+   ]
    },
    {
       "name":"שם משתמש",
