@@ -1,109 +1,104 @@
 [
    {
-      "name":"בינה מלאכותית",
-      "type":"folder",
-      "children":[
+      "name": "בינה מלאכותית",
+      "type": "folder",
+      "children": [
          {
-            "name":"צ'אטים פופולריים",
-            "type":"folder",
-            "children":[
+            "name": "צ'אטים פופולריים",
+            "type": "folder",
+            "children": [
                {
-                  "name":"ChatGpt",
-                  "type":"url",
-                  "url":"https://chatgpt.com/",
-                  "hover":"צ'אט הבינה המלאכותית המוכר והאהוב"
+                  "name": "ChatGpt",
+                  "type": "url",
+                  "url": "https://chatgpt.com/",
+                  "hover": "צ'אט הבינה המלאכותית המוכר והאהוב"
                },
                {
-                  "name":"Claude Ai",
-                  "type":"url",
-                  "url":"https://claude.ai/new",
-                  "hover":"צ'אט הבינה המלאכותית מהחזקים והפופולריים"
+                  "name": "Claude Ai",
+                  "type": "url",
+                  "url": "https://claude.ai/new",
+                  "hover": "צ'אט הבינה המלאכותית מהחזקים והפופולריים"
                },
                {
-                  "name":"Gemini Ai",
-                  "type":"url",
-                  "url":"https://gemini.google.com/app",
-                  "hover":"צ'אט הבינה המלאכותית מבית גוגל"
+                  "name": "Gemini Ai",
+                  "type": "url",
+                  "url": "https://gemini.google.com/app",
+                  "hover": "צ'אט הבינה המלאכותית מבית גוגל"
                }
-               
             ]
          }
       ]
    },
    {
-    "name": "Google Dorking",
-    "type": "folder",
-    "children": [
-      {
-        "type": "dork",
-        "command": "site:example.com intext:\"password\"",
-        "description": "חיפוש מילת מפתח 'password' באתר ספציפי"
-      },
-      {
-        "type": "dork",
-        "command": "filetype:pdf site:example.com",
-        "description": "חיפוש קבצי PDF באתר ספציפי"
-      },
-      {
-        "type": "dork",
-        "command": "intitle:\"index of\" site:example.com",
-        "description": "חיפוש ספריות פתוחות באתר"
-      },
-      {
-  "name": "Google Dorking",
-  "type": "folder",
-  "children": [
-    {
-      "type": "dork",
-      "command": "site:linkedin.com \"Company Name\" AND \"employee\"",
-      "description": "חיפוש עובדים של חברה ספציפית בלינקדאין"
-    },
-    {
-      "type": "dork",
-      "command": "filetype:xls OR filetype:xlsx site:example.com",
-      "description": "חיפוש קבצי אקסל באתר ספציפי"
-    },
-    {
-      "type": "dork",
-      "command": "intitle:\"webcam\" OR inurl:\"webcam\" -inurl:\"aspx\"",
-      "description": "חיפוש מצלמות אינטרנט נגישות"
-    },
-    {
-      "type": "dork",
-      "command": "cache:example.com",
-      "description": "צפייה בגרסה השמורה במטמון של האתר"
-    },
-    {
-      "type": "dork",
-      "command": "intext:\"@gmail.com\" AND intext:\"password\" filetype:log",
-      "description": "חיפוש קבצי לוג שמכילים כתובות Gmail וסיסמאות"
-    },
-    {
-      "type": "dork",
-      "command": "site:pastebin.com \"api_key\" OR \"apikey\"",
-      "description": "חיפוש מפתחות API שדלפו ל-Pastebin"
-    },
-    {
-      "type": "dork",
-      "command": "inurl:wp-content/uploads/private",
-      "description": "חיפוש תיקיות פרטיות בוורדפרס שנחשפו בטעות"
-    },
-    {
-      "type": "dork",
-      "command": "ext:php intitle:phpinfo \"published by the PHP Group\"",
-      "description": "חיפוש דפי phpinfo חשופים"
-    },
-    {
-      "type": "dork",
-      "command": "intext:\"Index of /\" +passwd",
-      "description": "חיפוש ספריות חשופות שמכילות קבצי סיסמאות"
-    },
-    {
-      "type": "dork",
-      "command": "site:docs.google.com/spreadsheets \"password\" OR \"credentials\"",
-      "description": "חיפוש גליונות Google שמכילים סיסמאות או פרטי התחברות"
-    }
-   ]
+      "name": "Google Dorking",
+      "type": "folder",
+      "children": [
+         {
+            "type": "dork",
+            "command": "site:example.com intext:\"password\"",
+            "description": "חיפוש מילת מפתח 'password' באתר ספציפי"
+         },
+         {
+            "type": "dork",
+            "command": "filetype:pdf site:example.com",
+            "description": "חיפוש קבצי PDF באתר ספציפי"
+         },
+         {
+            "type": "dork",
+            "command": "intitle:\"index of\" site:example.com",
+            "description": "חיפוש ספריות פתוחות באתר"
+         },
+         {
+            "type": "dork",
+            "command": "site:linkedin.com \"Company Name\" AND \"employee\"",
+            "description": "חיפוש עובדים של חברה ספציפית בלינקדאין"
+         },
+         {
+            "type": "dork",
+            "command": "filetype:xls OR filetype:xlsx site:example.com",
+            "description": "חיפוש קבצי אקסל באתר ספציפי"
+         },
+         {
+            "type": "dork",
+            "command": "intitle:\"webcam\" OR inurl:\"webcam\" -inurl:\"aspx\"",
+            "description": "חיפוש מצלמות אינטרנט נגישות"
+         },
+         {
+            "type": "dork",
+            "command": "cache:example.com",
+            "description": "צפייה בגרסה השמורה במטמון של האתר"
+         },
+         {
+            "type": "dork",
+            "command": "intext:\"@gmail.com\" AND intext:\"password\" filetype:log",
+            "description": "חיפוש קבצי לוג שמכילים כתובות Gmail וסיסמאות"
+         },
+         {
+            "type": "dork",
+            "command": "site:pastebin.com \"api_key\" OR \"apikey\"",
+            "description": "חיפוש מפתחות API שדלפו ל-Pastebin"
+         },
+         {
+            "type": "dork",
+            "command": "inurl:wp-content/uploads/private",
+            "description": "חיפוש תיקיות פרטיות בוורדפרס שנחשפו בטעות"
+         },
+         {
+            "type": "dork",
+            "command": "ext:php intitle:phpinfo \"published by the PHP Group\"",
+            "description": "חיפוש דפי phpinfo חשופים"
+         },
+         {
+            "type": "dork",
+            "command": "intext:\"Index of /\" +passwd",
+            "description": "חיפוש ספריות חשופות שמכילות קבצי סיסמאות"
+         },
+         {
+            "type": "dork",
+            "command": "site:docs.google.com/spreadsheets \"password\" OR \"credentials\"",
+            "description": "חיפוש גליונות Google שמכילים סיסמאות או פרטי התחברות"
+         }
+      ]
    },
    {
       "name":"שם משתמש",
