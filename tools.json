@@ -30,6 +30,24 @@
       ]
    },
    {
+      "name": "זיהוי פנים",
+      "type": "folder",
+      "children": [
+         {
+            "name": "כלים פופולריים",
+            "type": "folder",
+            "children": [
+               {
+                  "name": "pimeyes",
+                  "type": "url",
+                  "url": "https://pimeyes.com/en",
+                  "hover": "כלי העובר על תמונות בכל הרשת ומחפש את הפנים שהעלנו. מאפשר לנו 10 נסיונות בחינם "
+               }
+            ]
+         }
+      ]
+   },
+   {
       "name": "Google Dorking",
       "type": "folder",
       "children": [
