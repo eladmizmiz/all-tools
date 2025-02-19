@@ -30,6 +30,36 @@
       ]
    },
    {
+      "name": "Telegram",
+      "type": "folder",
+      "children": [
+         {
+            "name": "מציאת ID של USER",
+            "type": "folder",
+            "children": [
+               {
+                  "name": "ChatGpt",
+                  "type": "url",
+                  "url": "https://chatgpt.com/",
+                  "hover": "צ'אט הבינה המלאכותית המוכר והאהוב"
+               }
+            ]
+         },
+         {
+            "name": "איסוף מידע על ID של User",
+            "type": "folder",
+            "children": [
+               {
+                  "name": "Funstat",
+                  "type": "url",
+                  "url": "https://chatgpt.com/",
+                  "hover": "צ'אט הבינה המלאכותית המוכר והאהוב"
+               }
+            ]
+         }
+      ]
+   },
+   {
       "name": "Google Dorking",
       "type": "folder",
       "children": [
