@@ -2136,57 +2136,11 @@
             "name":"Documents",
             "type":"folder",
             "children":[
-               {
-                  "name":"חיפוש",
-                  "type":"folder",
-                  "children":[
-                     {
-                        "name":"Common GoogleDorks",
-                        "type":"folder",
-                        "children":[
-                           {
-                              "name":"GoogleDocs (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/?q=site:docs.google.com+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           },
-                           {
-                              "name":"GoogleDrive (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/?q=site:drive.google.com+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           },
-                           {
-                              "name":"Dropbox (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/?q=site:dl.dropbox.com+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           },
-                           {
-                              "name":"Amazon AWS (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           },
-                           {
-                              "name":"OneDrive (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           },
-                           {
-                              "name":"Cryptome (D)",
-                              "type":"url",
-                              "url":"https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E",
-                              "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                           }
-                        ]
-                     },
                      {
                         "name":"Scribd",
                         "type":"url",
                         "url":"https://www.scribd.com/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                        "hover":"הכניסו שם של קובץ מסויים וקבלו את כל המסמכים שנקראו בשם זה ופורסמו בטעות או בכוונה ברשת האינטרנט"
                      },
                      {
                         "name":"DocJax",
