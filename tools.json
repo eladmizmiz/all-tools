@@ -277,6 +277,12 @@
             "type":"folder",
             "children":[
                {
+                  "name":"Who.is",
+                  "type":"url",
+                  "url":"https://who.is/",
+                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+               },
+               {
                   "name":"Domain Dossier",
                   "type":"url",
                   "url":"http://centralops.net/co/DomainDossier.aspx",
@@ -298,43 +304,13 @@
                   "name":"MarkMonitor Whois Search",
                   "type":"url",
                   "url":"https://domains.markmonitor.com/whois/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Website Informer",
-                  "type":"url",
-                  "url":"http://website.informer.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Who.is",
-                  "type":"url",
-                  "url":"https://who.is/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Whois AMPed",
-                  "type":"url",
-                  "url":"https://whoisamped.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                  "hover":"כלי לחיפוש מידע על דומיינים, כולל בעלות, פרטי יצירת קשר ותאריך רישום באמצעות חיפוש WHOIS."
                },
                {
                   "name":"ViewDNS.info",
                   "type":"url",
                   "url":"http://viewdns.info/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Daily DNS Changes",
-                  "type":"url",
-                  "url":"http://www.dailychanges.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IP2WHOIS",
-                  "type":"url",
-                  "url":"https://www.ip2whois.com",
-                  "hover":"כלי למציאת כתובת IP לפי דומיין"
+                  "hover":"כלי לתחקור IP, Domain ועוד"
                }
             ]
          },
@@ -364,55 +340,25 @@
                   "name":"Shodan",
                   "type":"url",
                   "url":"https://www.shodan.io/",
-                  "hover":"כלי לחיפוש מידע או שמות."
+                  "hover":"Shodan הוא מנוע חיפוש למכשירים ומערכות מחוברות לאינטרנט, המאפשר למצוא שרתים, מצלמות, מערכות IoT ושירותים חשופים לפגיעויות אבטחה."
                },
                {
                   "name":"ODIN (R)",
                   "type":"url",
                   "url":"https://www.getodin.com/",
-                  "hover":"מנוע חיפוש מתקדם"
+                  "hover":"Odin הוא כלי לניהול והפצת נתונים, המאפשר יצירת קמפיינים שיווקיים, אוטומציה של תהליכים עסקיים ויצירת דוחות מתקדמים."
                },
                {
                   "name":"Online Nikto scanner",
                   "type":"url",
                   "url":"https://nikto.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                  "hover":"Nikto הוא סורק אבטחה לאתרים, המאפשר לזהות בעיות אבטחה כגון פגיעויות, קונפיגורציות שגויות, והתקפות אפשריות בשרתים וביישומים ווביים."
                },
                {
                   "name":"urlscan.io",
                   "type":"url",
                   "url":"https://urlscan.io/search/#*",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Daily DNS Changes",
-                  "type":"url",
-                  "url":"http://www.dailychanges.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SameID",
-                  "type":"url",
-                  "url":"http://sameid.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Redirect Detective",
-                  "type":"url",
-                  "url":"http://redirectdetective.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"AnalyzeID",
-                  "type":"url",
-                  "url":"http://analyzeid.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"urlDNA",
-                  "type":"url",
-                  "url":"https://urldna.io",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                  "hover":"Urlscan.io הוא שירות סריקה שמבצע ניתוח אתרים ומספק מידע על פעילותם, כולל בקשות רשת, רמת האבטחה, ושירותים חיצוניים המעורבים, כדי לזהות איומים או פעילויות חשודות."
                }
             ]
          },
@@ -5613,12 +5559,6 @@
                   ]
                },
                {
-                  "name":"CyberChef",
-                  "type":"url",
-                  "url":"https://gchq.github.io/CyberChef/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
                   "name":"Functions Online",
                   "type":"url",
                   "url":"https://www.functions-online.com/",
@@ -6637,12 +6577,6 @@
                         "name":"Fake US Identities",
                         "type":"url",
                         "url":"http://xdd2.org/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name":"Social Media Fingerprint",
-                        "type":"url",
-                        "url":"https://robinlinus.github.io/socialmedia-leak/",
                         "hover":"כלי לחקר נתונים ומידע באינטרנט."
                      },
                      {
