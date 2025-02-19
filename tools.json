@@ -42,7 +42,13 @@
                   "type": "url",
                   "url": "https://web.telegram.org/k/#@SangMata_beta_bot",
                   "hover": "בוט למציאת שמות קודמים וID של המשתמש"
-               }
+               },
+               {
+                  "name": "TelegramDB scan",
+                  "type": "url",
+                  "url": "https://web.telegram.org/k/#@tgdb_bot",
+                  "hover": "בוט למציאת שמות קודמים וID של המשתמש"
+               }   
             ]
          },
          {
@@ -54,6 +60,18 @@
                   "type": "url",
                   "url": "https://web.telegram.org/k/#@FunstutBot",
                   "hover": "בוט למציאת קבוצות בהן נכח המשתמש, למציאת שמות קודמים ועוד"
+               }
+            ]
+         },
+         {
+            "name": "בוטים נוספים",
+            "type": "folder",
+            "children": [
+               {
+                  "name": "osint_maigret_bot",
+                  "type": "url",
+                  "url": "https://web.telegram.org/k/#@osint_maigret_bot",
+                  "hover": "הבוט מריץ חיפוש ברשת האינטרנט ומוצא את כל הרשתות שאליהן נרשם מישהו עם שם משתמש זהה או דומה"
                }
             ]
          }
