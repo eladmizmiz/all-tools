@@ -2239,42 +2239,6 @@
                   ]
                }
             ]
-         },
-         {
-            "name":"Fonts",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"What The Font",
-                  "type":"url",
-                  "url":"https://www.myfonts.com/WhatTheFont/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Font Squirrel",
-                  "type":"url",
-                  "url":"https://www.fontsquirrel.com/matcherator",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IdentiFont",
-                  "type":"url",
-                  "url":"http://www.identifont.com/index.html",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Font Spring",
-                  "type":"url",
-                  "url":"https://www.fontspring.com/matcherator",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"What Font Is",
-                  "type":"url",
-                  "url":"https://www.whatfontis.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
          }
       ]
    },
