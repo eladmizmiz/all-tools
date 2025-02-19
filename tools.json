@@ -292,54 +292,12 @@
                   "name":"DomainTools Whois",
                   "type":"url",
                   "url":"http://whois.domaintools.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Domain Big Data",
-                  "type":"url",
-                  "url":"http://domainbigdata.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Whoisology",
-                  "type":"url",
-                  "url":"https://whoisology.com/#advanced",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Whois ARIN",
-                  "type":"url",
-                  "url":"https://whois.arin.net/ui/advanced.jsp",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNSstuff",
-                  "type":"url",
-                  "url":"https://tools.dnsstuff.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Robtex (R)",
-                  "type":"url",
-                  "url":"https://www.robtex.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Domaincrawler.com",
-                  "type":"url",
-                  "url":"http://www.domaincrawler.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
+                  "hover":"כלי מעולה לתחקור דומיין"
                },
                {
                   "name":"MarkMonitor Whois Search",
                   "type":"url",
                   "url":"https://domains.markmonitor.com/whois/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"easyWhois",
-                  "type":"url",
-                  "url":"https://www.easywhois.com/",
                   "hover":"כלי לחקר נתונים ומידע באינטרנט."
                },
                {
