@@ -167,6 +167,18 @@
       ]
    },
    {
+      "name":"מספרי טלפון",
+      "type":"folder",
+      "children":[
+         {
+            "name":"True Caller",
+            "type":"url",
+            "url":"http://www.truecaller.com/",
+            "hover":"הכניסו מספר טלפון וקבלו שם"
+         }
+      ]
+   },
+   {
       "name":"כתובת דוא\"ל",
       "type":"folder",
       "children":[
@@ -3154,18 +3166,7 @@
             ]
          }
       ]
-   },
-   {
-      "name":"מספרי טלפון",
-      "type":"folder",
-      "children":[
-         {
-            "name":"True Caller",
-            "type":"url",
-            "url":"http://www.truecaller.com/",
-            "hover":"הכניסו מספר טלפון וקבלו שם"
-         }
-      ]
    }
+   
    
 ]
