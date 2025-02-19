@@ -2173,24 +2173,6 @@
                         "hover":"כלי לחקר נתונים ומידע באינטרנט."
                      }
                   ]
-               },
-               {
-                  "name":"Paste Sites",
-                  "type":"folder",
-                  "children":[
-                     {
-                        "name":"Pastebin Alerts",
-                        "type":"url",
-                        "url":"http://andrewmohawk.com/pasteLert/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name":"Just Paste It",
-                        "type":"url",
-                        "url":"https://justpaste.it/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
                }
             ]
          }
